@@ -1,1 +1,1 @@
-import "expo-router/entry";
+new import "expo";
